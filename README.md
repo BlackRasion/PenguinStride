@@ -40,4 +40,5 @@ pyinstaller main.spec
 ## 视频展示
 （To be continued...）
 
-### 🤝 请支持 [QFluent](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+## 🤝 致谢
+  请支持 [QFluent](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
