@@ -28,7 +28,7 @@ pyinstaller main.spec
 ```
 ## 使用说明
 1. 启动应用程序后显示登录界面
-2. 支持访客模式或用户名/密码登录（开发环境默认账户：jojo / 123456，可在![Login_page.py](app\Login_page.py) 中修改）
+2. 支持访客模式或用户名/密码登录（开发环境默认账户：jojo / 123456，可在[Login_page.py](app\Login_page.py) 中修改）
 3. 主界面提供专注、秒表和设置三个主要功能
 4. 可通过导航栏切换功能模块
 
@@ -41,4 +41,4 @@ pyinstaller main.spec
 （To be continued...）
 
 ## 🤝 致谢
-  请支持 [QFluentWidgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)。
+  请支持 [QFluentWidgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
