@@ -1,0 +1,11 @@
+{
+    "MainWindow": {
+        "Language": "zh_CN",
+        "MicaEnabled": true,
+        "MinimizeToTray": true
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ffaa1d9a",
+        "ThemeMode": "Auto"
+    }
+}
