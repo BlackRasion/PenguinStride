@@ -24,7 +24,7 @@ python app/main.py
 ```
 4. 打包应用程序:
 ```bash
-pyinstaller main.spec
+python build.py
 ```
 ## 使用说明
 1. 启动应用程序后显示登录界面
