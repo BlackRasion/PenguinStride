@@ -8,6 +8,7 @@ from qframelesswindow import FramelessWindow, StandardTitleBar
 from qfluentwidgets import setThemeColor, FluentIcon, FluentIconBase, Theme, InfoBar, InfoBarPosition, setTheme
 
 from config import cfg
+from paths import icon_path
 
 class CustomTitleBar(StandardTitleBar):
     """ Custom title bar without maximize button and double click maximize """

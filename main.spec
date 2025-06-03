@@ -7,7 +7,7 @@ a = Analysis(
     binaries=[],
     datas=[('app/resource/images', 'resource/images'),  
             ('app/resource/qss/light', 'resource/qss/light'),  
-            ('app/resource/qss/dark', 'resource/qss/dark')     
+            ('app/resource/qss/dark', 'resource/qss/dark'),  
             ],
     hiddenimports=[],
     hookspath=[],

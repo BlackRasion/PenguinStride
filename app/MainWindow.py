@@ -13,9 +13,9 @@ from focus_interface import FocusInterface
 from stop_watch_interface import StopWatchInterface
 from setting_interface import SettingInterface
 from config import cfg
-from utils import signalBus
+from utils import signalBus, showHelpMessageBox
 
-from utils import showHelpMessageBox
+from paths import icon_path 
 
 
 class MainWindow(FluentWindow):
@@ -44,7 +44,7 @@ class MainWindow(FluentWindow):
         self.setMinimumWidth(807)
 
         # 设置标题栏
-        self.setWindowIcon(QIcon("./resource/images/penguin.ico"))
+        self.setWindowIcon(QIcon(icon_path))
         self.setWindowTitle("Penguin Stride") 
 
         # 亚克力效果

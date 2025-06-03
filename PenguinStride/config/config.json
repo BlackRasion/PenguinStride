@@ -5,7 +5,7 @@
         "MinimizeToTray": true
     },
     "QFluentWidgets": {
-        "ThemeColor": "#ffaa1d9a",
-        "ThemeMode": "Auto"
+        "ThemeColor": "#ff1e69aa",
+        "ThemeMode": "Light"
     }
 }
