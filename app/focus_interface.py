@@ -352,7 +352,7 @@ class FocusInterface(QWidget, Ui_FocusInterface):
         self.startFocusButton.setText("启动专注时段")
         self.startFocusButton.setIcon(FluentIcon.POWER_BUTTON)
         self.ImageLabel.movie().stop()
-        self.ImageLabel.setPixmap(QPixmap("jpg_path"))
+        self.ImageLabel.setPixmap(QPixmap(jpg_path))
         
         # 启用控件
         self.timePicker.setEnabled(True)
